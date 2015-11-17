@@ -6,6 +6,7 @@ A seed for Spring &amp; Angular 2 based projects.
 ### Backend
 - Java
 - Spring
+- undertow
 - maven
 
 ### Frontend
