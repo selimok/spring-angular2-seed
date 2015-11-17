@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>spring-angular2-seed</name>
-	<description>A seed for Spring & Angular 2 based projects. // Languages: Java, TypeScript // Frameworks: spring-boot, angular2 // Package managers: maven, npm and bower</description>
+	<description>A seed for Spring and Angular 2 based projects.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
