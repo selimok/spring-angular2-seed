@@ -1,0 +1,15 @@
+{
+  "name": "spring-angular2-seed",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "A seed for Spring and Angular 2 based projects.",
+  "author": "Selim Ok",
+  "license": "Apache 2.0",
+  "scripts": {},
+  "devDependencies": {
+    "bower": "^1.6.5"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.46",
+    "systemjs": "^0.19.6"
+  }
+}
