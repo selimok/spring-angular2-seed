@@ -4,9 +4,14 @@
   "description": "A seed for Spring and Angular 2 based projects.",
   "author": "Selim Ok",
   "license": "Apache 2.0",
-  "scripts": {},
+  "scripts": {
+    "tsc": "tsc -p app -w",
+    "start": "live-server"
+  },
   "devDependencies": {
-    "bower": "^1.6.5"
+    "bower": "^1.6.5",
+    "live-server": "^0.8.2",
+    "typescript": "^1.6.2"    
   },
   "dependencies": {
     "angular2": "^2.0.0-alpha.46",
