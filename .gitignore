@@ -1,6 +1,7 @@
 .classpath
 .settings
 .project
-/target/
+target
 src/main/resources/static/npm-debug.log
 src/main/resources/static/node_modules
+
