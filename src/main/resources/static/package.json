@@ -5,7 +5,8 @@
   "author": "Selim Ok",
   "license": "Apache 2.0",
   "scripts": {
-    "tsc": "tsc -p app -w",
+    "tsc": "tsc -p app",
+    "tsc-live": "tsc -p app -w",
     "start": "live-server"
   },
   "devDependencies": {

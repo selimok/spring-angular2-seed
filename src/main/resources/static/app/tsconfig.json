@@ -3,6 +3,7 @@
     "target": "ES5",
     "module": "commonjs",
     "sourceMap": true,
+    "outDir": "./generated/",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "removeComments": false,
