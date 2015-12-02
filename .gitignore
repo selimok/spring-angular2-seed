@@ -2,7 +2,6 @@
 .settings
 .project
 target
-src/main/resources/static/npm-debug.log
-src/main/resources/static/node_modules
-src/main/resources/static/app/generated
-src/main/resources/static/.idea/
+frontend/npm-debug.log
+frontend/node_modules
+frontend/app/generated

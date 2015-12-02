@@ -63,16 +63,18 @@
 
 		<resources>
 			<resource>
-				<directory>src/main/resources/</directory>
+				<directory>frontend/</directory>
+				<targetPath>static/</targetPath>
 				<excludes>
-					<exclude>static/node_modules/**</exclude>
+					<exclude>node_modules/**</exclude>
 				</excludes>
 			</resource>
 			<resource>
-				<directory>src/main/resources/</directory>
+				<directory>frontend/</directory>
+				<targetPath>static/</targetPath>
 				<includes>
-					<include>static/node_modules/angular2/bundles/**</include>
-					<include>static/node_modules/systemjs/dist/**</include>
+					<include>node_modules/angular2/bundles/**</include>
+					<include>node_modules/systemjs/dist/**</include>
 				</includes>
 			</resource>
 		</resources>
